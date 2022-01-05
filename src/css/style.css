@@ -372,7 +372,7 @@ header .desktop ul {
 @media only screen and (max-width: 480px) {
     .certificates-gallery {
         flex-direction: column;
-        height: 150vh;
+        height: 200vh;
         justify-content: space-between;
     }
 
